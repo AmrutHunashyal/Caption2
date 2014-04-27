@@ -1,0 +1,6 @@
+Model                                 SerialNumber  
+Kingston DataTraveler 2.0 USB Device  0B8E63006BE7  
+ZTE USB Storage FFF1 USB Device                     
+TOSHIBA MK3265GSXN                    41B3D54PB     
+
+
